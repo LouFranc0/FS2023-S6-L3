@@ -1,0 +1,12 @@
+header{
+    background-color: #6c31b5;
+    display: inline-block;
+}
+.imageLogo {
+    padding-top: 4px;
+}
+.link1 {
+    text-decoration: none;
+    color: white;
+    margin-right: 2rem;
+}
